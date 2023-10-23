@@ -1,0 +1,51 @@
+.carousel-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.carousel_items {
+  width: 100%;
+  height: 85vh;
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: hidden;
+}
+
+.carousel_item {
+  background: center/cover no-repeat;
+  position: relative;
+  min-width: 100%;
+  height: 100vh;
+  transition: all 0.5s linear;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.item1 {
+  background-image: url("../img/carusel/Application\ programming\ interface-amico.png");
+}
+.item2 {
+  background-image: url("../img/carusel/Business\ Plan-amico.png");
+}
+
+.item3 {
+  background-image: url("../img/carusel/Classroom-amico.png");
+}
+
+.item4 {
+  background-image: url("../img/carusel/Coding\ workshop-amico.png");
+}
+
+.item5 {
+  background-image: url("../img/carusel/Coding\ workshop-rafiki.png");
+}
+.item6 {
+  background-image: url("../img/carusel/Private\ data-amico.png");
+}
+.item7 {
+  background-image: url("../img/carusel/Software\ integration-amico.png");
+}
+.item8 {
+  background-image: url("../img/carusel/UI-UX\ differences-amico.png");
+}

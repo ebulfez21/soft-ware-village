@@ -1,0 +1,48 @@
+.icon {
+  width: 50px;
+  height: 50px;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  align-items: center;
+  justify-content: center;
+  float: left;
+}
+.mw {
+  width: 32px;
+  height: 32px;
+}
+
+.tecrube {
+  background-image: url(/assets/icon/tecrube.png);
+}
+.destek {
+  background-image: url(/assets/icon/destek.png);
+}
+
+.mentor {
+  background-image: url(/assets/icon/mentor.png);
+}
+.odenis {
+  background-image: url(/assets/icon/odenis.png);
+}
+.secim {
+  background-image: url(/assets/icon/secim.png);
+}
+.menu {
+  background-image: url(/assets/icon/menu.png);
+  color: aliceblue;
+}
+.facebook {
+  background-image: url(../icon/facebook.png);
+}
+.github {
+  background-image: url(../icon/github.png);
+}
+.linkedi {
+  background-image: url(../icon/linkedin.png);
+}
+.instagram {
+  background-image: url(../icon/instagram.png);
+}
