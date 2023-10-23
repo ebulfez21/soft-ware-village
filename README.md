@@ -4,7 +4,7 @@ This repository contains the source code for the SoftwareVillage.az website. The
 
 ## Preview
 
-![Online Store Checkout UI Preview](https://github.com/ebulfez21/soft-ware-village/blob/main/assets/img/readme.png)
+![Online Store Checkout UI Preview](https://github.com/ebulfez21/soft-ware-village/blob/main/assets/img/readme.jpg)
 
 ## About the Project
 
